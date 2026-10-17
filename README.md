@@ -1,2 +1,2 @@
 # snowvillagefinder-sitemap
-snow village finder
+Sitemap for www.snowvillagefinder.com, served via GitHub Pages.
