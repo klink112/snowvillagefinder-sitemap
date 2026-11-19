@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://guide.snowvillagefinder.com/sitemap-pieces-index.xml
 Sitemap: https://guide.snowvillagefinder.com/sitemap.xml
